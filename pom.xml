@@ -10,10 +10,10 @@
  </properties>
          
     <groupId>com.mavenartidiksha</groupId>
-    <artifactId>docker-jenkins-integration-sample</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>diksha</artifactId>
+    <version>1.0</version>
 <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>diksha</finalName>
 </build>
 
 </project>
